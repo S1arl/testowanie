@@ -29,7 +29,7 @@
      
      class myException extends Exception {
          public function errorMessage() {
-             return "HELLO";
+             return "my own message";
          }
          
      }
